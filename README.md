@@ -14,7 +14,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://docs.ros.org/en/humble/index.html#" target="_blank" rel="noreferrer"> 
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.openrobotics.org%2Fblog%2F2022%2F5%2F24%2Fros-2-humble-hawksbill-release&psig=AOvVaw3Xkn8fzhfHTFB0gDenh5X4&ust=1711558119986000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJi51_-wkoUDFQAAAAAdAAAAABAI" alt="ROS 2 Humble" width="40" height="40"/> 
+    <img src="https://images.squarespace-cdn.com/content/v1/606d378755a86f589aa297b7/1653397531343-6M4IQ4JWDQV1SQ8W17UN/HumbleHawksbill_TransparentBG-NoROS.png?format=2500w" alt="ROS 2 Humble" width="40" height="40"/> 
   </a>
   <a href="http://wiki.ros.org/noetic" target="_blank" rel="noreferrer"> 
     <img src="http://wiki.ros.org/noetic?action=AttachFile&do=get&target=noetic.png" alt="ROS Noetic" width="40" height="40"/> 
