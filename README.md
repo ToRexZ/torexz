@@ -1,15 +1,38 @@
 <h1 align="center">Hi 👋, I'm Victor Risager</h1>
 <h3 align="center">A passionate Robotics Developer who loves Mobile Robots.</h3>
 
-- 🔭 8'th semester project [Reinforcement Learning on Hand Prosthesis](https://github.com/RoboticsAAU/hand_prosthesis_rl_control_pkgs.git)
-
-- 📫 How to reach me **victor.risager@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/victor-risager" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-risager" height="30" width="40" /></a>
 <a href="https://fb.com/victorrisager7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="victorrisager" height="30" width="40" /></a>
 </p>
+
+📫 Send an email:
+-  **victor.risager@hotmail.com**
+-  **vrisag20@student.aau.dk**
+
+
+
+<h3 alight="left">Semester Projects in Robotics</h3>
+  
+<h4 align="left">Master</h4>
+
+- 8'th <a href="https://github.com/RoboticsAAU/hand_prosthesis_rl_control_pkgs.git">Reinforcement Learning on Hand Prosthesis</a>
+- 7'th <a href="https://github.com/RoboticsAAU/TurfTank_smooth_trajectory_handover.git">Cuntinuous Curvature Path Planning in Collaboration with Turf Tank</a>
+
+
+<h4 align="left">Bachelor</h4>
+
+- 6'th <a href="https://github.com/RoboticsAAU/MatrixProductionV2.git">Flow Optimisation in Matrix Production Systems: Dynamic Multi-Agent Path Planning and Workstation Selection</a>
+- 5'th <a href="https://github.com/RoboticsAAU/MatrixProduction.git">Integration of AAU Smart Lab into Matrix Production using ACOPOS 6D</a>
+- 4'th <a href="https://github.com/RoboticsAAU/EchoLocalisation.git">Swarm Robotics using Echolocation for Search and Rescue in Buildings</a>
+- 3'rd <a href="https://github.com/RoboticsAAU/CrustCrawler.git">Assistive Robotic Manipulator to Restore Upper Limb Functionality</a>
+- 2'nd <a href="https://github.com/RoboticsAAU/Simulation-of-robot-cell-for-AAU-Smart-Lab.git">Integration of Robot Cell in AAU Smart Lab</a>
+- 1'st <a href="https://github.com/RoboticsAAU/mine_detection.git">Robots For Use In Humanitarian Demining</a>
+
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
